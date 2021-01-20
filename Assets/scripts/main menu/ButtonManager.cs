@@ -8,6 +8,7 @@ public class ButtonManager : MonoBehaviour
     public void StartButton()
     {
         //change scene to game.
+        SceneManager.LoadScene("Game");
     }
 
     public void InfoButton()
