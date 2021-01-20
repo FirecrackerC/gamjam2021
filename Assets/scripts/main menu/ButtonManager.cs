@@ -5,18 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class ButtonManager : MonoBehaviour
 {
-    void StartButton()
+    public void StartButton()
     {
         //change scene to game.
     }
 
-    void InfoButton()
+    public void InfoButton()
     {
         //change scene to info
     }
 
-    void ExitButton()
+    public void ExitButton()
     {
+        Debug.Log("The program has quit!");
         Application.Quit();
     }
 
