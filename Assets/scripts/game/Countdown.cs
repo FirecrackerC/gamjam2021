@@ -12,6 +12,7 @@ public class Countdown : MonoBehaviour
     void Start()
     {
         textBox.text = timeStart.ToString();
+        timeStart = 60;
     }
 
     // Update is called once per frame
