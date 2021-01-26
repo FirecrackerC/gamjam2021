@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Destoy
+  - Doll
+  - Stair
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground2
+  - Ground1
   - 
   - 
   - 
