@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4008272478031733950}
   - component: {fileID: 4008272478031733951}
   - component: {fileID: 4008272478031733945}
+  - component: {fileID: -5479613417814484904}
   m_Layer: 9
   m_Name: gamejam doll Right
   m_TagString: Doll
@@ -74,7 +75,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 87b12b2d3eff3284f96626bbe061e05d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: df4bca9c971419a4da9ebe3404d3c2dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -142,5 +143,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d1985725dfd1fa64d97d41e125f32e57, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-5479613417814484904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4008272478031733944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59acc6ae0029b4b4ca505ec72380ccc9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
